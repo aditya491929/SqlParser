@@ -5,6 +5,7 @@
 ## ABSTRACT ##
 Sql Parsers can be used to tokenize sql queries and these tokens can be compared with compatible query models of an application to check if the query provided by user is valid or not, In this project a simple implementation of one such kind of sql parser is shown
 ![Capture3](https://user-images.githubusercontent.com/69159108/115992915-bc4e1c80-a5ed-11eb-9eaf-9737c9b58f47.PNG)
+![Capture4](https://user-images.githubusercontent.com/69159108/115992878-93c62280-a5ed-11eb-8b5a-3327b9687b99.PNG)
 ## INSTALL ##
 * FROM npmjs : 
 ``` bash 
